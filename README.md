@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-<div> Welcome to my crib! </div>
+<div align="center"> Welcome to my crib! </div>
 
 ---
 ### :rofl: Funny Joke:
@@ -8,6 +8,7 @@
 > What did one Frenchman say to the other?
 >> I have no idea, I don’t speak French.
 
+---
 ### 💻:keyboard: Languages:
 
 **Java**
@@ -21,3 +22,7 @@
   
 **CSS**
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) 
+ 
+---
+### :eyes: Current Projects:
+
