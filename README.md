@@ -32,13 +32,13 @@
 
 🐱Floppa Minecraft Utility Mod for 1.12.2 
 
-🖥️Backend Website Member Systems. 
+🖥️Backend Website Member System
 
 } 
 
 ---
 ### 📫 getInTouch(){
 
-Discord: BrownZombie#5699
+✉️Discord: BrownZombie#5699
 
 }
