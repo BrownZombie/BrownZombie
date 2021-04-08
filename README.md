@@ -2,6 +2,7 @@
 
 <div> Welcome to my crib! </div>
 
+---
 ### :rofl: Funny Joke:
 
 > What did one Frenchman say to the other?
