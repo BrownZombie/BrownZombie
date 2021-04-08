@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-<div align="center"> Welcome to my crib! </div>
+<div> Welcome to my crib! </div>
 
 ### :rofl: Funny Joke:
 
