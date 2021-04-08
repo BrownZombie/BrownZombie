@@ -26,9 +26,9 @@
 ---
 ### :eyes: currentProjects(){
 
-Floppa Minecraft Utility Mod for 1.12.2
-Backend Website Member Systems.
-}
+Floppa Minecraft Utility Mod for 1.12.2 
+Backend Website Member Systems. 
+} 
 
 ---
 ### 📫 getInTouch(){
