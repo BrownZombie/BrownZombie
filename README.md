@@ -7,10 +7,11 @@
 
 > What did one Frenchman say to the other?
 >> I have no idea, I don’t speak French.
+
 }
 
 ---
-### 💻:keyboard: languages(){
+### :keyboard: languages(){
 
 **Java**
   ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)
@@ -23,16 +24,21 @@
   
 **CSS**
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) 
+  
 }
  
 ---
 ### :eyes: currentProjects(){
 
-Floppa Minecraft Utility Mod for 1.12.2 
-Backend Website Member Systems. 
+🐱Floppa Minecraft Utility Mod for 1.12.2 
+
+🖥️Backend Website Member Systems. 
+
 } 
 
 ---
 ### 📫 getInTouch(){
+
+Discord: BrownZombie#5699
 
 }
