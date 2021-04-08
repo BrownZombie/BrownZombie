@@ -2,11 +2,12 @@
 
 <div align="center"> Welcome to my crib! </div>
 
-### :rofl: Funny Joke
+### :rofl: Funny Joke:
+
 > What did one Frenchman say to the other?
 >> I have no idea, I don’t speak French.
 
-### 💻:keyboard: Languages
+### 💻:keyboard: Languages:
 
 **Java**
   ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)
