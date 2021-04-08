@@ -8,9 +8,11 @@
 
 ### 💻:keyboard: Languages
 
-**Java**: 
+**Java**
   [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)
-**Python**:
+  
+**Python**
   [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+  
 HTML
 CSS
