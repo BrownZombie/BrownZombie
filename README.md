@@ -3,13 +3,14 @@
 <div align="center"> Welcome to my crib! </div>
 
 ---
-### :rofl: Funny Joke:
+### :rofl: funnyJoke(){
 
 > What did one Frenchman say to the other?
 >> I have no idea, I don’t speak French.
+}
 
 ---
-### 💻:keyboard: Languages:
+### 💻:keyboard: languages(){
 
 **Java**
   ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)
@@ -22,6 +23,7 @@
   
 **CSS**
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) 
+}
  
 ---
 ### :eyes: currentProjects(){
