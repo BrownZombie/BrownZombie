@@ -11,20 +11,14 @@
 }
 
 ---
-### :keyboard: languages(){
+### :keyboard: languagesAndTools(){
 
-**Java**
-  ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)
-  
-**Python**
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-  
-**HTML**
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html) 
-  
-**CSS**
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) 
-  
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+
 }
  
 ---
