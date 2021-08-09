@@ -23,6 +23,8 @@
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-NPM-informational?style=flat&logo=npm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 }
  
